@@ -233,6 +233,7 @@ h1 {
 
 .nn1a > p {
   padding-bottom: 5px;
+  color: rgb(160, 160, 160);
 }
 
 hr {
@@ -266,4 +267,61 @@ p {
   height: 15px;
   width: 15px;
   color: rgb(133, 133, 133);
+}
+
+.sec5 {
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1020px;
+}
+
+.fff {
+  padding: 10px 20px;
+}
+
+.fff1 {
+  display: flex;
+  justify-content: space-between;
+  text-align: start;
+  color: rgb(160, 160, 160);
+}
+
+.sub_head {
+  font-size: 12px;
+  font-weight: 600;
+  color: rgb(41, 41, 41);
+}
+
+.sec6 {
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1020px;
+}
+
+.sec6_1{
+  padding: 0px 20px;
+}
+
+#_id {
+  color: #06c;
+}
+
+.sec6_2 {
+  margin-bottom: 30px;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.div6_2a1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.last_flex {
+  margin-left: 40px;
+  display: flex;
+  justify-content: space-evenly;
 }
